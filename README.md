@@ -4,7 +4,7 @@
 팀원: 최락영, 최성현, 홍윤기  
   
 ## 주제
-프로젝트 이름: AIM (Auto Internet protocol address Manager)
+프로젝트 이름: AIM (Auto Internet protocol address Manager)  
 주요 기능: IP 주소를 할당하고 관리  
   
 ## 역할
